@@ -1,2 +1,2 @@
-# m2-blog-module
+# Mage mastery Blog
 Blog extension for Magento2
